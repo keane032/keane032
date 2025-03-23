@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Roy Keane</h1>
-<h4>I'm a Mobile developer attracted to the best technologies on the market today. I have developed projects using JavaScript, React Native and flutter.</h4>
+<h4>I'm a developer attracted to the best technologies on the market today. I have developed projects using Angular, java, React Native and flutter.</h4>
 
 
 <!-- **keane032/keane032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
