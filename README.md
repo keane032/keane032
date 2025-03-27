@@ -11,7 +11,10 @@
 - 🔎 See my LinkedIn: [Roy](https://www.linkedin.com/in/roy-avila)
 - 🔎 See my App: [RPG TOOLS](https://play.google.com/store/apps/details?id=com.br.rpgboard)
 
-### Languages and Tools:
+<h4>Contact</h4>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/roy-avila)
+  
+<h4>Skills</h4>
 <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
 
 
