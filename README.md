@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Roy Keane</h1>
-<h4>I'm a developer attracted to the best technologies on the market today.</h4>
-<h4>I have developed projects using Angular, java, React Native and flutter.</h4>
+<p>I'm a developer attracted to the best technologies on the market today.</p>
+<p>I have developed projects using Angular, java, React Native and flutter.</p>
 
 
 <!-- **keane032/keane032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -20,7 +20,7 @@
 <!-- Skillsets -->
 
 
-<p align="center"> 
+<p align="left"> 
   <span>
   <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
