@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Roy Keane</h1>
-<p>I'm a developer attracted to the best technologies on the market today.</p>
-<p>I have developed projects using Angular, java, React Native and flutter.</p>
+<p>I'm a developer attracted to the best technologies on the market today. I have developed projects using Angular, java, React Native and flutter.</p>
 
 
 <!-- **keane032/keane032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -12,7 +11,9 @@
 - 🔎 See my App: [RPG TOOLS](https://play.google.com/store/apps/details?id=com.br.rpgboard)
 
 <h4>Contact</h4>
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/roy-avila)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/roy-avila/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/roy-avila/)
   
 <h4>Skills</h4>
 <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
