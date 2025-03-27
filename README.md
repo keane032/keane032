@@ -7,11 +7,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 📚 Graduated in Information Systems at [UFC](https://www.quixada.ufc.br/)
-- 🔎 See my LinkedIn: [Roy](https://www.linkedin.com/in/roy-avila)
 - 🔎 See my App: [RPG TOOLS](https://play.google.com/store/apps/details?id=com.br.rpgboard)
 
 <h4>Contact</h4>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/roy-avila/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/roy-avila/)
   
