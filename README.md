@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Roy Keane</h1>
-<p>I'm a developer attracted to the best technologies on the market today. I have developed projects using Angular, java, React Native and flutter. 
+<p align="left">I'm a developer attracted to the best technologies on the market today. I have developed projects using Angular, java, React Native and flutter. 
 Developer with over 5 years of experience in creating and maintaining mobile and web projects. Throughout my career, I have worked in various stages of software development, from design to implementation and testing.
 </p>
 
