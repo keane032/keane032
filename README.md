@@ -44,7 +44,7 @@
        
 </span>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=keane032&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=keane032&margin-w=15)](https://www.linkedin.com/in/roy-avila/)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
