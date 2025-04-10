@@ -11,7 +11,7 @@
 
 <h4>Contact</h4>
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/roy-avila/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/roy-avila/)
   
 <h4>Skills</h4>
 <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
